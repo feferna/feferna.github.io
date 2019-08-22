@@ -1,0 +1,51 @@
+body {
+    padding-top: 50px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.footer {
+    bottom: 0;
+    width: 100%;
+    line-height: 60px;
+  }
+
+.footer > .container {
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+
+.education {
+    margin-top: 30px;
+}
+
+.education h2, h1{
+    font-weight: 700;
+}
+
+.myContent {
+    padding-top: 50px;
+}
+
+#myPhoto {
+    width: 100%;
+}
+
+.edEntry {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+}
+
+.edInst {
+    font-weight: 700;
+    padding-left: 20px;    
+}
+
+.edDegree, .edDuration {
+    padding-left: 40px;    
+}
