@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang=en>
+
+<link href=data:, rel=icon>
+
+<title>$if(title)$$title$$endif$</title>
+
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1.0">
+
+<style>$header-includes$</style>
+
+<nav>
+    <ul>
+        <li><a href=/>Home</a></li>
+        <li><a href=/pages/publications/>Publications</a>
+        <li><a href=/pages/contact/>Contact</a>
+        <li><a href=https://github.com/feferna/>GitHub</a>
+    </ul>
+</nav>
+
+<main>
+    $if(date)$
+        <br>
+        <p>Published <b>$date$</b> by <a href="https://github.com/feferna">Francisco E. Fernandes Jr</a>.</p>
+    $endif$
+
+    $if(title)$
+        <h1>$title$</h1>
+    $else$
+        <br>
+    $endif$
+
+$body$
+    <br>
+    <pre></pre>
+</main>
+
+<footer>
+    <div id=m><p>© Francisco Erivaldo Fernandes Junior 2019</p><p>Website layout created by <a href="https://github.com/dylanaraps">Dylan Araps</a>.</p></div>
+</footer>
