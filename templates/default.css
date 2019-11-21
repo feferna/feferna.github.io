@@ -58,11 +58,11 @@ blockquote {
 img {
   display: block;
   left: 50%;
-  max-width: 10vw;
+  max-width: 25vw;
   min-width: 100%;
   padding: 0 0 1em;
   position: relative;
-  transform: translateX(-10%);
+  transform: translateX(-50%);
 }
 
 nav,footer {
