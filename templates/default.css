@@ -58,7 +58,7 @@ blockquote {
 img {
   display: block;
   left: 50%;
-  max-width: 50vw;
+  max-width: 25vw;
   min-width: 100%;
   padding: 0 0 1em;
   position: relative;
