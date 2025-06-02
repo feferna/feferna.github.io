@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Francisco Fernandes"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Postdoc in Machine Learning and Human-Centered AI"
   location         : "Finland"
   employer         : "Aalto University"
   uri              : # URL
@@ -131,7 +131,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
