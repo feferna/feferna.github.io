@@ -3,6 +3,7 @@ title: "Simulating Errors in Touchscreen Typing"
 collection: publications
 category: conferences
 permalink: /publication/typoist
+excerpt: ''
 date: 2025-04-26
 venue: 'CHI 2025: CHI Conference on Human Factors in Computing Systems'
 paperurl: 'https://typoist.github.io/'
