@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Researcher in Reinforcement Learning and Human-Aligned AI
-======
-
 I am a postdoctoral researcher at Aalto University, working at the intersection of Artificial Intelligence, Human-Computer Interaction, and Cognitive Science. My research is conducted within the Computational Behavior Lab and supported by the Finnish Center for Artificial Intelligence (FCAI). I focus on building adaptive agents using neural architecture search and reinforcement learning methods that align with human goals and behavior.
 
 My academic background spans three continents, having studied and worked in Brazil, the United States, and Finland. I earned my Ph.D. from Oklahoma State University (USA), my M.Sc. from the University of Campinas (UNICAMP – Brazil), and my undergraduate degree from the Federal Institute of Science and Technology of Ceará (IFCE – Brazil).
