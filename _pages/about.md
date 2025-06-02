@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src="/images/logos/aalto.png" alt="Aalto University" style="max-height:800px; max-width:100px; margin:0 10px;">
-  <img src="/images/logos/usp.jpg" alt="USP" style="max-height:40px; max-width:100px; margin:0 10px;">
-  <img src="/images/logos/osu.png" alt="Oklahoma State University" style="max-height:800px; max-width:100px; margin:0 10px;">
-  <img src="/images/logos/unicamp.png" alt="UNICAMP" style="max-height:80px; max-width:100px; margin:0 10px;">
-  <img src="/images/logos/ifce.png" alt="IFCE" style="max-height:80px; max-width:100px; margin:0 10px;">
+  <img src="/images/logos/aalto.png" alt="Aalto University" style="height:80px; margin:0 10px;">
+  <img src="/images/logos/usp.jpg" alt="USP" style="height:80px; margin:0 10px;">
+  <img src="/images/logos/osu.png" alt="Oklahoma State University" style="height:80px; margin:0 10px;">
+  <img src="/images/logos/unicamp.png" alt="UNICAMP" style="height:80px; margin:0 10px;">
+  <img src="/images/logos/ifce.png" alt="IFCE" style="height:80px; margin:0 10px;">
 </p>
 
 I am a postdoctoral researcher at Aalto University, working at the intersection of Artificial Intelligence, Human-Computer Interaction, and Cognitive Science. My research is conducted within the Computational Behavior Lab and supported by the Finnish Center for Artificial Intelligence (FCAI). I focus on building adaptive agents using neural architecture search and reinforcement learning methods that align with human goals and behavior.
