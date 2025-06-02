@@ -15,13 +15,4 @@ Previously, I held a postdoctoral position at the University of São Paulo (USP 
 
 I am particularly interested in the design of intelligent systems that are interpretable, human-aligned, and capable of learning from interaction. My current efforts explore how reinforcement learning and programmatic reasoning can be combined to enhance agent behavior in complex decision environments.
 
-Feel free to explore my [CV](/cv/), browse my [publications](/publications/), or contact me at:
-<p id="email"></p>
-<script type="text/javascript">
-  const user = "francisco.fernandesjunior";
-  const domain = "aalto.fi";
-  const email = user + "@" + domain;
-  const obfuscated = email.replace(/\./g, "[dot]").replace("@", "[at]");
-  const link = '<a href="mailto:' + email + '">' + obfuscated + '</a>';
-  document.getElementById("email").innerHTML = link;
-</script>
+Feel free to explore my [CV](/cv/), browse my [publications](/publications/), or contact me at francisco[dot]fernandesjunior[at]aalto[dot]fi.
