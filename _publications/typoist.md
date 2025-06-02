@@ -3,7 +3,6 @@ title: "Simulating Errors in Touchscreen Typing"
 collection: publications
 category: conferences
 permalink: /publication/typoist
-excerpt: 'Given a phrase, a keyboard, and user parameters, Typoist simulates eye and finger movements while making human-like insertion, omission, substitution, and transposition errors.'
 date: 2025-04-26
 venue: 'CHI 2025: CHI Conference on Human Factors in Computing Systems'
 paperurl: 'https://dl.acm.org/doi/10.1145/3706598.3713153'
