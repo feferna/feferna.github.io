@@ -6,6 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p align="center">
+  <img src="/images/logos/aalto.png" alt="Aalto University" height="60">
+  <img src="/images/logos/usp.jpg" alt="USP" height="60">
+  <img src="/images/logos/osu.png" alt="Oklahoma State University" height="60">
+  <img src="/images/logos/unicamp.png" alt="UNICAMP" height="60">
+  <img src="/images/logos/ifce.png" alt="IFCE" height="60">
+</p>
 
 I am a postdoctoral researcher at Aalto University, working at the intersection of Artificial Intelligence, Human-Computer Interaction, and Cognitive Science. My research is conducted within the Computational Behavior Lab and supported by the Finnish Center for Artificial Intelligence (FCAI). I focus on building adaptive agents using neural architecture search and reinforcement learning methods that align with human goals and behavior.
 
@@ -15,4 +22,4 @@ Previously, I held a postdoctoral position at the University of São Paulo (USP 
 
 I am particularly interested in the design of intelligent systems that are interpretable, human-aligned, and capable of learning from interaction. My current efforts explore how reinforcement learning and programmatic reasoning can be combined to enhance agent behavior in complex decision environments.
 
-Feel free to explore my [CV](/cv/), browse my [publications](/publications/), or contact me at francisco[dot]fernandesjunior[at]aalto[dot]fi.
+Feel free to explore my [CV](/cv/) and browse my [publications](/publications/).
