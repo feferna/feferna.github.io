@@ -51,6 +51,7 @@ Cada nó pode publicar ou subscrever em **tópicos**, que funcionam como variáv
 ### Comunicação entre nós
 
 ![Figura 1: Ilustração da comunicação entre nós ROS. Exemplo: o nó `/camera_base_link` envia dados pelo tópico `/tf` para o nó `/camera/camera_nodelet_manager`.](/images/blog/ros/fig1_ros_nos.png)
+**Figura 1:** Ilustração da comunicação entre nós ROS. O nó `/camera_base_link` envia dados pelo tópico `/tf` para o nó `/camera/camera_nodelet_manager`.
 
 ## Criação de pacotes
 
