@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/agentforge
 excerpt: ''
-date: 2025
+date: 2025-03-01
 venue: 'Proceedings of the 17th International Conference on Agents and Artificial Intelligence (ICAART 2025)'
 paperurl: 'https://www.scitepress.org/Link.aspx?doi=10.5220/0013142900003890'
 citation: 'F. Fernandes Jr. and A. Oulasvirta, “AGENTFORGE: A Flexible Low-Code Platform for Reinforcement Learning Agent Design:,” in Proceedings of the 17th International Conference on Agents and Artificial Intelligence, Porto, Portugal: SCITEPRESS - Science and Technology Publications, 2025, pp. 351–358. doi: 10.5220/0013142900003890.'
