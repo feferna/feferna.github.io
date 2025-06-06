@@ -1,7 +1,7 @@
 ---
 title: "FastAiAlloc: A real-time multi-resources allocation framework proposal based on predictive model and multiple optimization strategies"
 collection: publications
-category: journals
+category: manuscripts
 permalink: /publication/fastaialloc
 excerpt: ''
 date: 2023-12-01
