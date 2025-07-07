@@ -5,9 +5,9 @@ category: conferences
 permalink: /publication/experience-report-covid1
 excerpt: ''
 date: 2021-12-14
-venue: 'SBQS '21: XX Brazilian Symposium on Software Quality'
+venue: 'SBQS 21: XX Brazilian Symposium on Software Quality'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3493244.3493267'
-bibtexurl: 'https://feferna.github.io/files/bibtex/rennas.bib'
+bibtexurl: 'https://feferna.github.io/files/bibtex/	experience-report-covid1.bib'
 citation: 'E. F. C. da Cruz, F. E. Fernandes Junior, and E. D. Sardinha, “An experience in the use of SCRUM and KANBAN for project development in a Waterfall environment,” in XX Brazilian Symposium on Software Quality, Virtual Event Brazil: ACM, Nov. 2021, pp. 1–7. doi: 10.1145/3493244.3493267.'
 ---
 
