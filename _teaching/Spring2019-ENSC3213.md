@@ -1,8 +1,8 @@
 ---
-title: "Graduate Teaching Assistant - Computer-Based Systems (ENSC3213) - Spring 2019"
+title: "Spring 2019 - GTA - Computer-Based Systems (ENSC3213)"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2019-ENSC3213-Spring2019
+permalink: /teaching/Spring2019-ENSC3213
 venue: "Oklahoma State University, Department of Electrical and Computer Engineering"
 date: 2019-01-01
 location: "Stillwater, United States of America"
