@@ -17,7 +17,9 @@ excerpt: ""
 
 **Duration:** Spring 2019 (January 2019 – May 2019) (part-time, 20h/week)
 
-**Instructor of Record:** [Prof. Yanmin Gong](https://yanmingong.github.io/)
+**Instructor:** [Prof. Yanmin Gong](https://yanmingong.github.io/)
+
+**My role:** Graduate Teaching Assistant (GTA)
 
 ## Responsibilities
 
