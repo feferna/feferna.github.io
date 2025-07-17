@@ -1,7 +1,9 @@
 ---
 title: "Recent Updates"
-layout: posts
+layout: collection
+collection: news
 permalink: /news/
+entries_layout: list
 ---
 
 {% assign news_items = site.news | sort: "date" | reverse %}
