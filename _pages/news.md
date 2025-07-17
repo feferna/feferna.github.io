@@ -5,6 +5,6 @@ permalink: /news/
 ---
 
 {% assign news_items = site.news | sort: "date" | reverse %}
-{% for post in news_items %}
-  {% include archive-single.html %}
+{% for item in news_items %}
+  {% include archive-single.html post=item %}
 {% endfor %}
