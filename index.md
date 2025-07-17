@@ -12,7 +12,7 @@ This is your homepage. You can customize the layout in _layouts/home.html.
 {% assign about = site.pages | where: "permalink", "/about/" | first %}
 {{ about.content }}
 
-## 🔔 Recent Updates
+## Recent Updates
 
 {% assign news_posts = site.posts | where_exp: "post", "post.categories contains 'news'" %}
 {% for post in news_posts limit: 5 %}
