@@ -14,7 +14,7 @@ This is your homepage. You can customize the layout in _layouts/home.html.
 
 ## Recent Updates
 
-{% assign news_posts = site.posts | where_exp: "post", "post.categories contains 'news'" %}
-{% for post in news_posts limit: 5 %}
+{% assign news_items = site.news | sort: "date" | reverse %}
+{% for post in news_items limit: 5 %}
 - **{{ post.date | date: "%b %-d, %Y" }}** — [{{ post.title }}]({{ post.url }})
 {% endfor %}
