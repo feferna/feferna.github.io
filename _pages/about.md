@@ -1,6 +1,8 @@
 ---
-permalink: /
+title: "About me"
+permalink: /about/
 title: "About Me"
+layout: single
 author_profile: true
 redirect_from: 
   - /about/
