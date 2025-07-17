@@ -9,7 +9,7 @@ redirect_from:
 ---
 <p align="center">
   <img src="/images/logos/aalto.png" alt="Aalto University" style="height:85px; margin:0 10px;">
-  <img src="/images/logos/usp.jpg" alt="USP" style="height:85px; margin:0 10px;">
+  <img src="/images/logos/usp.png" alt="USP" style="height:85px; margin:0 10px;">
   <img src="/images/logos/osu.png" alt="Oklahoma State University" style="height:85px; margin:0 10px;">
   <img src="/images/logos/unicamp.png" alt="UNICAMP" style="height:85px; margin:0 10px;">
   <img src="/images/logos/ifce.png" alt="IFCE" style="height:85px; margin:0 10px;">
